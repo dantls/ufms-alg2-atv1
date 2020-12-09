@@ -1,6 +1,7 @@
 ## Calculator Polish Notation
 
-<img src="UFMS.PNG" alt="ALG Header" width="40%" align="right">
+<img src="https://github.com/dantls/ufms-alg2-atv1/blob/main/UFMS.png" alt="ALG Header" width="50%" align="center">
+
 
 Sistema desenvolvido para a disciplina de Algoritmos e Programação II-2020 do curso de Sistemas de Informação da Universidade Federal de Mato Grosso do Sul - UFMS.
 
@@ -21,4 +22,4 @@ As expressões aritméticas, usualmente, são escritas na notação infixa, na q
 
 ##### Exemplos
 
-<img src="EXEMPLOS.PNG" alt="ALG Header" width="100%" align="center">
+<img src="https://github.com/dantls/ufms-alg2-atv1/blob/main/EXEMPLOS.png" alt="ALG Example" width="100%" align="center">
